@@ -4,6 +4,9 @@ date: 2022-12-01T19:40:26+08:00
 draft: false
 tags:
 - hugo
+- blog
+categories:
+- 开发
 ---
 
 <!--more-->
