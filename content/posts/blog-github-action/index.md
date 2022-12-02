@@ -104,13 +104,11 @@ cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys
 chmod 600 ~/.ssh/authorized_keys
 ```
 3. 配置 secrets
-
-![secrets](./imgs/QQ20221202-193042.png)
-![secrets](./imgs/QQ20221202-193552.png)
-
+![secrets](QQ20221202-193042.png)
+![secrets](QQ20221202-193552.png)
 
 ### 测试效果
 
 执行 `git push` 查看 `action` 执行结果
 
-![actionl](./imgs/QQ20221202-202701.png)
+![actionl](QQ20221202-202701.png)
