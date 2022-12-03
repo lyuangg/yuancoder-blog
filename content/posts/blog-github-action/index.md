@@ -107,7 +107,7 @@ chmod 600 ~/.ssh/authorized_keys
 ![secrets](QQ20221202-193042.png)
 ![secrets](QQ20221202-193552.png)
 
-### 测试效果
+### 3. 测试效果
 
 执行 `git push` 查看 `action` 执行结果
 
