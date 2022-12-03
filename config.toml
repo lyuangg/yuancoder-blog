@@ -892,6 +892,14 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         url = "/categories/"
         title = ""
       [[languages.zh-cn.menu.main]]
+        weight = 4
+        identifier = "opensource"
+        pre = ""
+        post = ""
+        name = "开源"
+        url = "/categories/开源/"
+        title = ""
+      [[languages.zh-cn.menu.main]]
         weight = 5
         identifier = "about"
         pre = ""
