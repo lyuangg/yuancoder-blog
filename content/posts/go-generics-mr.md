@@ -63,6 +63,6 @@ fmt.Println(total) // 10
 
 除了 `map`, `reduce` 还有其他的函数也可以使用泛型实现。  
 
-我写了一个这样的工具包： [htts://github.com/lyuangg/mr](https://github.com/lyuangg/mr)
+我写了一个这样的工具包： [https://github.com/lyuangg/mr](https://github.com/lyuangg/mr)
 
-除了 `Map` `Reduce`, 还实现了： `Contains`, `ToMap`, `Filter`, `Diff`, `Intersect`, `Unique`, `Merge` 等函数。 
+实现了：`map`, `reduce`, `Contains`, `ToMap`, `Filter`, `Diff`, `Intersect`, `Unique`, `Merge` 等函数。 
